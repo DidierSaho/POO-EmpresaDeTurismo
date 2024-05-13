@@ -24,4 +24,6 @@ public class Excursion {
     public int getPrecioExcursion(){
         return this.PrecioExcursion;
     }
+
+
 }
